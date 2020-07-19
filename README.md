@@ -1,1 +1,1 @@
-Basic Algorithms Boo Woo
+Basic Algorithms slice and splice
