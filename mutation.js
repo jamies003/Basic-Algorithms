@@ -5,7 +5,8 @@ function mutation(arr) {
 
   for (var i = 0; i < arr2.length; i++) {
 
-    if (arr3.indexOf(arr2[i]) < 0) return false;
+    if (arr3.indexOf(arr2[i]) < 0) 
+    return false;
   }
   return true;
 }
